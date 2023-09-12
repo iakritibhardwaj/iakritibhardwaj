@@ -19,22 +19,22 @@
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
 </h3>
 
-<img width="200px" align="left" src="https://komarev.com/ghpvc/?username=your-github-akriti19&style=flat-square&color=22CCB2">
+<img width="200px" align="left" src="https://komarev.com/ghpvc/?username=your-github-iakritibhardwaj&style=flat-square&color=22CCB2">
 <hr>
 <br>
 
 <div>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akriti19&theme=2077"  display=block width=100% height=auto  alt="1" >
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iakritibhardwaj&theme=2077"  display=block width=100% height=auto  alt="1" >
  
 
 ## 📊 GitHub Activity
 
 <hr>
 
-| ![Akriti's Github Stats](https://github-readme-stats.vercel.app/api?username=akriti19&show_icons=true&theme=radical) | ![Akriti GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akriti19&theme=radical)                                                                                                           |
+| ![Akriti's Github Stats](https://github-readme-stats.vercel.app/api?username=iakritibhardwaj&show_icons=true&theme=radical) | ![Akriti GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iakritibhardwaj&theme=radical)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akriti19&langs_count=8&theme=radical&layout=compact) | ![Github Stars](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akriti19&theme=radical&utcOffset=8) |
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akriti19&theme=2077) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akriti19&theme=2077)
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iakritibhardwaj&langs_count=8&theme=radical&layout=compact) | ![Github Stars](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iakritibhardwaj&theme=radical&utcOffset=8) |
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iakritibhardwaj&theme=2077) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iakritibhardwaj&theme=2077)
 
 <!-- color=nord_dark -->
 
@@ -48,7 +48,7 @@
 
 <hr>
 
-[![Akriti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akriti19&theme=dracula)](https://github.com/akriti19/github-readme-activity-graph)
+[![Akriti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iakritibhardwaj&theme=dracula)](https://github.com/iakritibhardwaj/github-readme-activity-graph)
 
 <hr>
 
